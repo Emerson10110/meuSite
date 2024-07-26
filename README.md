@@ -3,7 +3,7 @@
 Descrição
 Este projeto é um site criado para fortalecer meu portfólio profissional. Ele foi desenvolvido utilizando JavaScript, HTML/CSS, e PHP, com o objetivo de demonstrar minhas habilidades em desenvolvimento web e design responsivo.
 
-Funcionalidades
+**Funcionalidades**
 
 Homepage:
 Uma página inicial atraente que apresenta minhas habilidades, experiências e projetos destacados.
@@ -20,7 +20,8 @@ Um formulário de contato funcional para facilitar a comunicação com potenciai
 Design Responsivo: 
 O site é totalmente responsivo, garantindo uma experiência ótima em dispositivos móveis e desktops.
 
---->Tecnologias Utilizadas<----
+
+---> **tecnologias Utilizadas** <----
 
 HTML/CSS:
 Para a estrutura e o design visual do site.
